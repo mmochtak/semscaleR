@@ -1,0 +1,1 @@
+Here comes word embeddings models. The wrapper was tested on GloVe models trained with R package text2vec (http://text2vec.org/).
